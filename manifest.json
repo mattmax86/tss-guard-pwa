@@ -1,0 +1,22 @@
+{
+  "id": "/tss-guard-pwa/",
+  "name": "Taman Saujana Sekata Guard",
+  "short_name": "TSS Guard",
+  "start_url": "/tss-guard-pwa/",
+  "scope": "/tss-guard-pwa/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#315b24",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
